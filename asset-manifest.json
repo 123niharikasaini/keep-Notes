@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keep-Notes/static/css/main.1a6c0516.css",
+    "main.js": "/keep-Notes/static/js/main.5ad65c6e.js",
+    "index.html": "/keep-Notes/index.html",
+    "main.1a6c0516.css.map": "/keep-Notes/static/css/main.1a6c0516.css.map",
+    "main.5ad65c6e.js.map": "/keep-Notes/static/js/main.5ad65c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6c0516.css",
+    "static/js/main.5ad65c6e.js"
+  ]
+}
